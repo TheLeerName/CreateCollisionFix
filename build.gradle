@@ -14,7 +14,7 @@ tasks.named('wrapper', Wrapper).configure {
     distributionType = Wrapper.DistributionType.BIN
 }
 
-version = "0.1.0"
+version = "0.2.0"
 group = "com.fix"
 
 sourceSets.main.resources {
@@ -152,7 +152,7 @@ var generateModMetadata = tasks.register("generateModMetadata", ProcessResources
             mod_id                 : "create_collision_fix",
             mod_name               : "create_collision_fix",
             mod_license            : "MIT",
-            mod_version            : "0.1.0",
+            mod_version            : "0.2.0",
     ]
     inputs.properties replaceProperties
     expand replaceProperties
