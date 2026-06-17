@@ -1,5 +1,6 @@
 # Create Collision NPE Fix
 Lightweight mixin patch fixing Create 6.0.10 collision crash for MC 1.21.1 NeoForge
+(https://github.com/Creators-of-Create/Create/issues/10218)
 
 ## Download
 Modrinth: https://modrinth.com/mod/create_collision_fix
@@ -44,14 +45,10 @@ run `gradlew --refresh-dependencies` to refresh the local cache. `gradlew clean`
 
 ## Mapping Names:
 
-## Mapping Names:
-
 By default, the MDK is configured to use the official mapping names from Mojang for methods and fields 
 in the Minecraft codebase. These names are covered by a specific license. All modders should be aware of this
 license. For the latest license text, refer to the mapping file itself, or the reference copy here:
 https://github.com/NeoForged/NeoForm/blob/main/Mojang.md
-
-## Additional Resources: 
 
 ## Additional Resources: 
 
