@@ -7,7 +7,7 @@ Modrinth: https://modrinth.com/mod/create_collision_fix
 
 ## Info
 - MC: 1.21.1
-- NeoForge: 21.1.233
+- NeoForge: 21.1.219
 - Require Create 6.0.10 ~ <6.1
 - Side: Client & Server both needed
 - Release: Beta 0.2.0
