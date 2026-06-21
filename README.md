@@ -1,9 +1,6 @@
 # Create Collision NPE Fix
-Lightweight mixin patch fixing Create 6.0.10 collision crash for MC 1.21.1 NeoForge
+[Forked from this repo!](https://github.com/ablackkitten/MDK-1.21.1-ModDevGradle-main) Lightweight mixin patch fixing Create 6.0.10 collision crash for MC 1.21.1 NeoForge
 (https://github.com/Creators-of-Create/Create/issues/10218)
-
-## Download
-Modrinth: https://modrinth.com/mod/create_collision_fix
 
 ## Info
 - MC: 1.21.1
